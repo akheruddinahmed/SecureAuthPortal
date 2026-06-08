@@ -13,10 +13,10 @@
     </parent>
 
     <groupId>com.example</groupId>
-    <artifactId>SpringBootRegLoginApp</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>SpringBootRegLoginApp</name>
-    <description>springbootCRUD</description>
+    <artifactId>SecureAuthPortal</artifactId>
+    <version>1.0.0</version>
+    <name>SecureAuthPortal</name>
+    <description>A comprehensive Spring Boot authentication portal with user registration and login functionality using PostgreSQL and Thymeleaf</description>
 
     <properties>
         <java.version>17</java.version>
